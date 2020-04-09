@@ -1,0 +1,4 @@
+C:\Users\Jony\source\repos\RabbitMQ\Receive\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\Jony\source\repos\RabbitMQ\Receive\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\Jony\source\repos\RabbitMQ\Receive\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Jony\source\repos\RabbitMQ\Receive\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs

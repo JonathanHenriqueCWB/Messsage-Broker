@@ -1,0 +1,9 @@
+﻿Sistema de mensageria - RabbitMq
+
+	É um message broker, um intermediario de mensagens.
+	Faz com os micro serviços se comuniquem.
+	É necessario instala-lo na maquina/servidor.
+	A message cai na memoria da máquina.
+	Um envia outro consome.
+	Conexao via TCP com apenas uma conexão ao server.
+	Cada conexão tem uma sub conexao chamada de channel.
